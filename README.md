@@ -1,6 +1,6 @@
 # A simple MERN stack application 
 
-## Using Docker Compose
+## Using DockerCompose
 ```bash
 docker compose up -d
 ```
